@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-	  <h1>Rudra-king-maker</h1>
+	  <h1>Rudra-king-makers</h1>
 
 <hr>
    <h1>New user Register for DevOps Learning</h1>
